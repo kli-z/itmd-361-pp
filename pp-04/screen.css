@@ -8,3 +8,22 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* ===== BASE STYLES ===== */
+/* Perfect fifth Modular Scale */
+h1 {
+  font-size: 2.25em;
+  padding: 0.4444em 0.4444em 1em 0.4444em;
+  text-align: center;
+}
+h2 {
+  font-size: 1.5em;
+  padding: 0 0 1em .4444em;
+}
+p {
+  line-height: 1.5em;
+  padding: 0.4444em 0.2963em 0.4444em 0.2963em;
+}
+li {
+  list-style-type: square;
+  padding: 0.4444em 1em 0.4444em 1em;
+  line-height: 1.5em;
+}
